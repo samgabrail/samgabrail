@@ -6,8 +6,6 @@ Whether you’re brand new to the world of DevOps or you’re already a seasoned
 
 <br />
 
----
-
 <br />
 
 ## **TeKanAid Academy**
@@ -17,8 +15,6 @@ I'm building an academy focusing on teaching different technologies in DevOps. T
 <a href="https://courses.tekanaid.com/" target="_blank"><img src="https://img.icons8.com/external-icongeek26-linear-colour-icongeek26/64/null/external-Academy-school-icongeek26-linear-colour-icongeek26.png"/></a>
 
 <br />
-
----
 
 <br />
 
@@ -30,8 +26,6 @@ Check out my YouTube channel where I post video demos regularly.
 
 <br />
 
----
-
 <br />
 
 ## **Blog**
@@ -41,8 +35,6 @@ Most of my YouTube videos have a blog post associated with them. Check out the b
 <a href="https://tekanaid.com/posts/page/1" target="_blank"><img src="https://img.icons8.com/external-itim2101-lineal-color-itim2101/64/null/external-blog-copywriting-itim2101-lineal-color-itim2101.png" alt="youtube" width="64" height="64"/></a>
 
 <br />
-
----
 
 <br />
 
@@ -54,8 +46,6 @@ Most of my YouTube videos have a blog post associated with them. Check out the b
 <a href="https://twitter.com/sam_gabrail" target="_blank"><img src="https://img.icons8.com/color/96/000000/twitter.png" alt="twitter" width="64" height="64"/></a>
 
 <br>
-
----
 
 <br>
 
@@ -82,7 +72,7 @@ Most of my YouTube videos have a blog post associated with them. Check out the b
   <img alt="vmware"src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=VMware&logoColor=white" width="110" height="30"/> 
 </p>
 
----
+<br />
 
 <br />
 
@@ -101,7 +91,6 @@ See all my Certifications on [Credly](https://www.credly.com/users/sam-gabrail)
 
 <br />
 
----
 <br />
 
 ## **More about me**
