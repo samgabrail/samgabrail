@@ -12,7 +12,7 @@ Whether you’re brand new to the world of DevOps or you’re already a seasoned
 
 I'm building an academy focusing on teaching different technologies in DevOps. Take a look below.
 
-<a href="https://courses.tekanaid.com/" target="_blank"><img src="https://img.icons8.com/external-icongeek26-linear-colour-icongeek26/64/null/external-Academy-school-icongeek26-linear-colour-icongeek26.png"/></a>
+<a href="https://tekanaid.com/courses" target="_blank"><img src="https://img.icons8.com/external-icongeek26-linear-colour-icongeek26/64/null/external-Academy-school-icongeek26-linear-colour-icongeek26.png"/></a>
 
 <br />
 
